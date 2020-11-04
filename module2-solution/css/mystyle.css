@@ -3,6 +3,10 @@ overflow:hidden;
 margin: 0px;
 }
 
+.container{
+	margin:0px;
+	padding: opx;
+}
 h1{
 	text-align: center;
 }
