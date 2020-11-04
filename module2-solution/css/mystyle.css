@@ -1,17 +1,16 @@
 body{
 overflow:hidden;
-margin: 0px;
-width-max:100% !important;
 }
 
 .container{
 	margin:0px;
 	padding: 0px;
-	width-max:100% !important;
+	
 	
 }
 h1{
 	text-align: center;
+	margin-top:15px;
 }
 
 
