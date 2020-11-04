@@ -6,6 +6,7 @@ margin: 0px;
 .container{
 	margin:0px;
 	padding: 0px;
+	width-max:100% !important;
 	
 }
 h1{
