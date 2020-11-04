@@ -1,6 +1,5 @@
 body{
 overflow:hidden;
-margin:10px;
 	
 }
 
@@ -8,11 +7,6 @@ h1{
 	text-align: center;
 }
 
-/********** Base styles **********/
-* {
-  box-sizing: border-box;
-
-}
 
 p {
   width: 90%;
@@ -72,7 +66,7 @@ p {
     float: left;
     border: 3px solid black;
     margin:50px 15px 0px 15px;
-    aling-items:center;
+    align-items:center;
     background-color:#FCF3CF;
 
   }
@@ -86,7 +80,7 @@ p {
     width: 25%;
   }
   .col-lg-4 {
-    width: 31%;
+    width: 30%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -200,10 +194,10 @@ p {
   .col-sm-10 {
     width: 83.33%;
   }
-  .col-lg-11 {
+  .col-sm-11 {
     width: 91.66%;
   }
-  .col-lg-12 {
+  .col-sm-12 {
     width: 100%;
   }
 }
